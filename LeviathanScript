@@ -2,11 +2,10 @@ _G.CrewSettings = {
     ["OwnBoat"] = "creativexxaffier", -- ชื่อคนที่มีเรือสำหรับดึงหัวใจ
     ["Method"] = "CraftBoat", -- ใส่ SanguineArt เพื่อทำหมัด หรือใส่ CraftBoat สำหรับทำแค่เรือหรือดึงหัวใจ ไม่ใส่เลยคือทำหมัด ( ไม่ใส่เลยคือลบบรรทัดนี้ไม่ใช่ "" )
     ["CrewMember"] = { -- ชื่อรหัสที่จะทำใส่ได้ 11 ตัว
-        "HgIzJdq",
-        "xYJ3sHZ",
-        "ZZqluimFg",
-        "pOosxOij3",
-        "niroiaszzi"
+        "hNYSDGGuH",
+        "Sr71PQCVsZ",
+        "fMPg1A",
+        "bvH_UNq"
     }
 }
 getgenv().Key = "MARU_NewM-Q9LJSATL2YUBO80"
